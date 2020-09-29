@@ -4,6 +4,7 @@ import cgi
 import subprocess
 
 print("content-type: text/html")
+#setting content-type
 print()
 
 mydata = cgi.FieldStorage()
